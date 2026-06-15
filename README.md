@@ -2,6 +2,12 @@
 
 A small travel-insurance quotation service built with Laravel. It exposes a JWT-protected REST endpoint that prices a policy from a list of traveller ages, a currency, and a trip date range, persists each quote, and ships a Vue form page that calls the API and displays the result.
 
+## Screenshots
+<img width="565" height="494" alt="image" src="https://github.com/user-attachments/assets/24b615fa-9386-4e54-9c22-7b725df41970" />
+<img width="568" height="596" alt="image" src="https://github.com/user-attachments/assets/c78be5ee-3f53-4441-9540-121b1bd25292" />
+<img width="583" height="679" alt="image" src="https://github.com/user-attachments/assets/618ae5bd-0f9d-49f5-81e0-45d4f78c1ba0" />
+
+
 ## Requirements
 
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
